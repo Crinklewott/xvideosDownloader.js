@@ -8,7 +8,9 @@
 // @grant         none
 // ==/UserScript==
 
-$('[data-ref=tabDownload]').unbind().click(function(){
-    location.replace(/flv_url=([^\|]+)/.exec(
-	decodeURIComponent($("#flash-player-embed").attr("flashvars")))[1]);
-});
+window.onload = function(){
+    $('[data-ref=tabDownload]').unbind().click(function(){
+	location.replace(/flv_url=([^\|]+)/.exec(
+	    decodeURIComponent($("#flash-player-embed").attr("flashvars")))[1]);
+    });
+};
