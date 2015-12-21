@@ -25,14 +25,8 @@ Depending on your browser, ensure you have the proper extensions
 installed as detailed in Requirements. (If you need any, of course..!)
 
 ** Firefox
-1) Copy the full contents of [[https://raw.githubusercontent.com/thingywhat/xvideosDownloader.js/master/xvideosDownloader.user.js][xvideosDownloader.user.js]].
-   (Greasemonkey lets you add new scripts from your clipboard)
-2) Click the down arrow on the Greasemonkey icon on your
-   installation. This should pop up a drop-down menu
-3) Click "New User Script"
-4) Click "Use Script From Clipboard"
-5) Click "Save" on the dialog that pops up with the script
-6) Viola! You now have Spanking Tube download links
+1) Navigate here [[https://raw.githubusercontent.com/thingywhat/xvideosDownloader.js/master/xvideosDownloader.user.js][xvideosDownloader.user.js]] and accept the install.
+6) Viola! You now can now download videos from xVideos!
 
 ** Opera 10-12.5
 1) Visit [[https://raw.githubusercontent.com/thingywhat/xvideosDownloader.js/master/xvideosDownloader.user.js][xvideosDownloader.user.js]].
